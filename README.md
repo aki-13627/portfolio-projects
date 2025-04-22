@@ -164,4 +164,3 @@ backend-go/
 │       └── repository/
 │           └── mock/                # テスト用のモックリポジトリ
 ```
-```
